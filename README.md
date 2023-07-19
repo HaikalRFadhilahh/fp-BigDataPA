@@ -4,4 +4,5 @@
   <li>Haikal Raditya Fadhilah</li>
   <li>Wulan Kritiyanti</li>
   <li>Gilang Ramadhani</li>
+  <li>Widdia Glory Anggrenny</li>
 </ul>
